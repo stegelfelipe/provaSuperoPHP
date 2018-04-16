@@ -26,3 +26,11 @@ RewriteRule ^(.*)$ index.php/$1 [L]
 -  `Altere o seu arquivo {application/config/database.php} de acordo com a configuração de seu banco de dados.`
 
 Para acessar a aplicação online, acesse: https://tasklistsupero.000webhostapp.com/
+
+**************************
+ScreenShots do Projeto
+**************************
+- Listagem de tarefas: http://prntscr.com/j66x7v
+- Listagem de tarefas concluídas: http://prntscr.com/j66xem
+- Adicionar nova tarefa: http://prntscr.com/j66xll
+- Edição de tarefa: http://prntscr.com/j66xsi
